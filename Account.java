@@ -1,5 +1,5 @@
 package inheritance;
-//은행계좌클래스(국민은행)
+//은행계좌클래스(국민은행) => 맴버변수 접근제한자로 보호, getter, setter
 public class Account {
 	//맴버변수
 	String accountNo; // 계좌번호
